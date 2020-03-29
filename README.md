@@ -13,6 +13,6 @@ https://tr.investing.com/members/207592075/comments \
 https://tr.investing.com/members/207557315/comments \
 https://tr.investing.com/members/207576927/comments \
 https://tr.investing.com/members/contributors/207557172/comments  \
-t.me/Abbolove \
-t.me/Ruhuzursuzum \
+https://t.me/Abbolove \
+https://t.me/Ruhuzursuzum 
 
