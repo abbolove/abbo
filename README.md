@@ -1,0 +1,2 @@
+# soylemekistedigimsudurki
+insan hayret ediyor
