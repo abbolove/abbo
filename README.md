@@ -12,6 +12,8 @@ https://tr.investing.com/members/207593363/comments \
 https://tr.investing.com/members/207592075/comments \
 https://tr.investing.com/members/207557315/comments \
 https://tr.investing.com/members/207576927/comments \
+https://tr.investing.com/members/205249285/comments \
+https://tr.investing.com/members/207591845/comments \
 https://tr.investing.com/members/contributors/207557172/comments  ben\
 https://t.me/Abbolove Telegram abbo\
 https://t.me/Ruhuzursuzum Telegram direkt ben
