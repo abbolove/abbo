@@ -17,4 +17,3 @@ CEOEM https://tr.investing.com/members/207591845/comments <br>
 https://tr.investing.com/members/contributors/207557172/comments  ben <br> 
 https://t.me/Abbolove Telegram abbo <br> 
 https://t.me/Ruhuzursuzum Telegram direkt ben
-
