@@ -3,4 +3,4 @@
 "surekliIslem":[true, true, true, true, false, false, false],
 "acigaSatisIzni":[true, true, true, true, false, false, false, false],
 "brutTakasIzni":[true, true, true, true, true, true, false],
-"botIsim":"Robot Olmak", "botSoyisim":"Zor Yavrum", "lakap":"rozy", "me":"207557172"}
+"botIsim":"Robot Olmak", "botSoyisim":"Zor Yavrum", "lakap":"rozy", "me":"207557172", "versiyon":0.001}
