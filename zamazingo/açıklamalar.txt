@@ -23,7 +23,9 @@ Bence gereksiz ama olur da biri kullanmak isterse eğer;
       klasör oluşacak. O klasörün içinde tarihlere göre klasörler oluşacak. Aha işte o klasörlerin içinde kayıtları 
       görebilirsiniz.
       
-* Tek forum için çalıştırabilirsiniz. Çalıştırdığınızda eğer yoksa karaliste.txt ve beyazliste.txt diye 2 dosya oluşacak.
+* Tek forum için çalıştırabilirsiniz. O forumu ve bot olarak kullanacağınız hesabın IDsini bana söylemelisiniz.
+
+* Çalıştırdığınızda eğer yoksa karaliste.txt ve beyazliste.txt diye 2 dosya oluşacak.
 
 * Çalıştırdığınız forumda bota komut vermesini istemediğiniz kişilerin IDlerini karaliste.txt dosyasına ekleyebilirsiniz.
       Her satıra bir ID.
