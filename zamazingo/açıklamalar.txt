@@ -66,5 +66,7 @@ Bence gereksiz ama olur da biri kullanmak isterse eğer;
       - "rozy bilgi" komutu yok. Beleş bilgi musluğum kapandı. Aslında bazı forumlar için yapılabiliyor. Ama her foruma ı ıh.
       - abbo'daki gibi hesap makinesi özelliği yok. Kafası çalışan biri bunu ekleyebilirdi. Ama ben kodlamada iyi değilim.
       - Bir de rozy'nin laklak komutu kısıtlı. Gün ve kişi sayısı ayarlanamıyor. Formu görsel olarak yüklemiyor.
- 
+
+Aslında en önemlisi şu : YETERİ KADAR TEST ETMEDİM. Şu an bilmediğim hatalar içeriyor olabilir. Hayırlısı diyelim.
+
 Aklıma bunlar geldi. Şimdilik yeterli sanki. Okuyan olmaz gerçi bunları ama yazdım. Çünkü yazılması gerekiyor.
