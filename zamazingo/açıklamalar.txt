@@ -23,9 +23,10 @@ Bence gereksiz ama olur da biri kullanmak isterse eğer;
       klasör oluşacak. O klasörün içinde tarihlere göre klasörler oluşacak. Aha işte o klasörlerin içinde kayıtları 
       görebilirsiniz.
       
-* Tek forumda için çalıştırabilirsiniz. Çalıştırdığınızda eğer yoksa karaliste.txt ve beyazliste.txt diye 2 dosya oluşacak.
+* Tek forum için çalıştırabilirsiniz. Çalıştırdığınızda eğer yoksa karaliste.txt ve beyazliste.txt diye 2 dosya oluşacak.
 
 * Çalıştırdığınız forumda bota komut vermesini istemediğiniz kişilerin IDlerini karaliste.txt dosyasına ekleyebilirsiniz.
+      Her satıra bir ID.
 
 * ID nedir bilmiyorsanız eğer;
       1) Program ona komut verenlerin IDsini ekrana yazdırıyor. 9 haneli bir sayı. Daha sonra komut verenin ismini yazdırıyor. 
