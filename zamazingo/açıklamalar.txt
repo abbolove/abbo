@@ -71,6 +71,10 @@ Bence gereksiz ama olur da biri kullanmak isterse eğer;
       - "rozy haber" komutu yok. Belki daha sonra yaparım.
       - "rozy bilgi" komutu yok. Beleş bilgi musluğum kapandı. Aslında bazı forumlar için yapılabiliyor. Ama her foruma ı ıh.
       - abbo'daki gibi hesap makinesi özelliği yok. Kafası çalışan biri bunu ekleyebilirdi. Ama ben kodlamada iyi değilim.
+            !!! düzeltme. Hesap makinesi özellği artık var. sin-cos-tan-asin(arcsin)-acos-atan sonracığıma 
+                  log var 2 şekilde. log(7) yazarsanız 10 tabanında 7yi hesaplar log(8,2) yazarsanız 2 tabanında 8i hesaplar.
+                  '^' ya da '**' işaretiyle 2^3 = 8 i bulabilirsiniz.
+                  
       - Bir de rozy'nin laklak komutu kısıtlı. Gün ve kişi sayısı ayarlanamıyor. Formu görsel olarak yüklemiyor.
 
 Aslında en önemlisi şu : YETERİ KADAR TEST ETMEDİM. Şu an bilmediğim hatalar içeriyor olabilir. Hayırlısı diyelim.
