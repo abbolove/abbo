@@ -29,6 +29,10 @@ Bence gereksiz ama olur da biri kullanmak isterse eğer;
 
 * Çalıştırdığınız forumda bota komut vermesini istemediğiniz kişilerin IDlerini karaliste.txt dosyasına ekleyebilirsiniz.
       Her satıra bir ID.
+      Şimdi aklıma geldi eklemesi: Ekledikten sonra yeniden çalıştırmanız gerekir. Buna gerek olmamasını sağlayabilirdim.
+            Ama yeni aklıma geldi ve şu an üşendim. Hem o zaman da sürekli karaliste.txt ve beyazliste.txt güncellendi mi
+            diye kontrol etmesi gerekir. Siz hangisini tercih edersiniz bilemiyorum. Mesela her seferinde şifre girilmesi
+            de saçma sanki. Eman neyse.
 
 * ID nedir bilmiyorsanız eğer;
       1) Program ona komut verenlerin IDsini ekrana yazdırıyor. 9 haneli bir sayı. Daha sonra komut verenin ismini yazdırıyor. 
