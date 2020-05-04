@@ -69,7 +69,9 @@ Bence gereksiz ama olur da biri kullanmak isterse eğer;
             # "rhf" rüçhan hakkı kullanım fiyatını temsil ediyor.
             # "fiyat" kısmı yine bedelsizdeki gibi.
       - "rozy haber" komutu yok. Belki daha sonra yaparım.
-      - "rozy bilgi" komutu yok. Beleş bilgi musluğum kapandı. Aslında bazı forumlar için yapılabiliyor. Ama her foruma ı ıh.
+      - "rozy anlık" komutu yok. Beleş bilgi musluğum kapandı. Aslında bazı forumlar için yapılabiliyor. Ama her foruma ı ıh.
+            !!! düzeltme. Bazı forumlar için yapılabiliyor demiştim. Bari bu bazı forumlar yararlansın diye ekledim. 
+                  Var ama yok diyebiliriz artık.
       - abbo'daki gibi hesap makinesi özelliği yok. Kafası çalışan biri bunu ekleyebilirdi. Ama ben kodlamada iyi değilim.
             !!! düzeltme. Hesap makinesi özellği artık var. sin-cos-tan-asin(arcsin)-acos-atan sonracığıma 
                   log var 2 şekilde. log(7) yazarsanız 10 tabanında 7yi hesaplar log(8,2) yazarsanız 2 tabanında 8i hesaplar.
