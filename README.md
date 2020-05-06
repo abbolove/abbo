@@ -2,8 +2,8 @@
 
 Anne Ben Bot Oldum(abbo)'un ismini cismini kullanıp başkalarıyla yazışan biri var. üstelik güvenilmez biri. o kişyi ben sanacaksınız diye tedirgin oluyorum. eğer aşağıdaki hesaplardan biriyle yazışmıyorsanız o kişi abbo değildir
 
-https://www.facebook.com/profile.php?id=100045090097100 __
-https://www.instagram.com/abbolove/ __
+https://www.facebook.com/profile.php?id=100045090097100 \
+https://www.instagram.com/abbolove/ \
 https://www.youtube.com/channel/UCQUBe_8BIdBDL51QeRSDTMA <br> 
 https://twitter.com/abbolove  
 ALCTL https://tr.investing.com/members/208691400/comments telegram kanalı >> https://t.me/alctl <br>
