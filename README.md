@@ -6,7 +6,7 @@ https://www.facebook.com/profile.php?id=100045090097100 <br>
 https://www.instagram.com/abbolove/ <br> 
 https://www.youtube.com/channel/UCQUBe_8BIdBDL51QeRSDTMA <br> 
 https://twitter.com/abbolove  
-ALCTL https://tr.investing.com/members/208691400/comments telegram kanalı >> https://t.me/alctl <br> 
+ALCTL https://tr.investing.com/members/208691400/comments telegram kanalı >> https://t.me/alctl 
 SMART https://tr.investing.com/members/207591885/comments <br>  
 KLNMA https://tr.investing.com/members/207593363/comments <br>  
 HUBVC https://tr.investing.com/members/207592075/comments telegram kanalı >> https://t.me/hubvc<br>  
