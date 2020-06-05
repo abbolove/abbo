@@ -14,6 +14,7 @@ KFEIN https://tr.investing.com/members/207557315/comments \
 NETAS https://tr.investing.com/members/207576927/comments telegram kanalı >> https://t.me/netas \
 TKNSA https://tr.investing.com/members/205249285/comments telegram kanalı >> https://t.me/tknsa \
 CEOEM https://tr.investing.com/members/207591845/comments telegram kanalı >> https://t.me/ceoem \
+gezgin abbo https://tr.investing.com/members/contributors/207629583/comments \
 https://t.me/vakbn \
 https://t.me/arclk \
 https://tr.investing.com/members/contributors/207557172/comments  ben \
