@@ -7,21 +7,8 @@ Bence gereksiz ama olur da biri kullanmak isterse eğer;
 * Botun fotoğrafı https://github.com/abbolove/soylemekistedigimsudurki/blob/master/zamazingo/rozy_350x350.jpg buradaki fotoğraf
       olmalı. Yoksa mızıkçılık yaparım. Oynamam.
       
-* Exe dosyasını cmd'den çalıştırsanız daha iyi. Niye? Eğer cmd'den çalıştırırsanız;
-      1) Aniden kapanırsa vermiş olduğu hatayı görürsünüz. Bunu görmenin başka yolu da var ama olsun.
-      2) Biri botun adını andığında ya da program bir çıktı verdiğinde sesli bildirim alırsınız.
-      ### E ama nasıl cmd'den açabilirsiniz ? ###
-      Exe'nin olduğu klasördeyken shift tuşuna basılı tutmuş haldeyken klasör içinde boş bir yere tıklarsanız eğer
-          "Komut İstemi'ni burada açın" diye bir seçenek çıkar önünüze. Ona tıklayabilirsiniz. Sonra o cmd ekranında 
-           rozy.exe yazıp tıkladığınızda program çalışır.
-      Bir diğer seçenek bilmiyorsanız eğer cmd için "cd" komutunu öğrenebilirsiniz.
-      Bambaşka bir seçenek iste cmd'yi açtığınızda c:\Users\Mahmut gibi yazan kısma bakarak exe'yi aha o mahmut klasörüne 
-          koyarsınız. Sizde mahmut değil de sizin isminiz yazar büyük olasılıkla. Sonra rozy.exe yazıp enter'a basarsınız.
-      Uleyn amma kastım he. Ama olsun her ihtimali düşünüyorum. Huyum bu.
-      
-* Programın verdiği hataları başka şekilde de görebilirsiniz dedim. Program çalıştığında log gibimsi bir isimle 
-      klasör oluşacak. O klasörün içinde tarihlere göre klasörler oluşacak. Aha işte o klasörlerin içinde kayıtları 
-      görebilirsiniz.
+* Program çalıştığında log gibimsi bir isimle klasör oluşacak. O klasörün içinde tarihlere göre klasörler oluşacak. 
+      Aha işte o klasörlerin içinde kayıtları görebilirsiniz.
       
 * Tek forum için çalıştırabilirsiniz. O forumu ve bot olarak kullanacağınız hesabın IDsini bana söylemelisiniz.
 
@@ -57,6 +44,12 @@ Bence gereksiz ama olur da biri kullanmak isterse eğer;
       + "rozy tahmin"
       + "rozy tavan" ya da "rozy çatı"
       + "rozy taban"
+      + "rozy tv"
+            # tradingview sitesindeki son analizi paylaşıyor
+      + "rozy takas x"
+            # x yerine hangi sayıyı yazarsanız o kadar gün öncekiyle çalıştırıldığı zamanın takas verilerini paylaşıyor.
+            # "rozy takas 13" derseniz 13 günlük farkı falan gösterecek işte
+            # sadece "rozy takas" da yazabilirsiniz tabii. ama o zaman sevimsiz oluyor.
       + "rozy gıybet"
             # "rozy gıybet iyi" yazarsanız iyi şeyler söyler
             # "rozy gıybet kötü" yazarsanız kötü şeyler söyler
@@ -75,7 +68,7 @@ Bence gereksiz ama olur da biri kullanmak isterse eğer;
                   log var 2 şekilde. log(7) yazarsanız 10 tabanında 7yi hesaplar log(8,2) yazarsanız 2 tabanında 8i hesaplar.
                   '^' ya da '**' işaretiyle 2^3 = 8 i bulabilirsiniz.
                   
-      - Bir de rozy'nin laklak komutu kısıtlı. Gün ve kişi sayısı ayarlanamıyor. Formu görsel olarak yüklemiyor.
+      - Bir de rozy'nin laklak komutu kısıtlı. Gün ve kişi sayısı ayarlanamıyor. Formu görsel olarak yüklemiyor. (degistirsem mi)
 
 Aslında en önemlisi şu : YETERİ KADAR TEST ETMEDİM. Şu an bilmediğim hatalar içeriyor olabilir. Hayırlısı diyelim.
 
