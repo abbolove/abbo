@@ -7,8 +7,20 @@ Bence gereksiz ama olur da biri kullanmak isterse eğer;
 * Botun fotoğrafı https://github.com/abbolove/soylemekistedigimsudurki/blob/master/zamazingo/rozy_350x350.jpg buradaki fotoğraf
       olmalı. Yoksa mızıkçılık yaparım. Oynamam.
       
-* Program çalıştığında log gibimsi bir isimle klasör oluşacak. O klasörün içinde tarihlere göre klasörler oluşacak. 
-      Aha işte o klasörlerin içinde kayıtları görebilirsiniz.
+* Exe dosyasını cmd'den çalıştırsanız daha iyi. Niye? Eğer cmd'den çalıştırırsanız;
+      Aniden kapanırsa vermiş olduğu hatayı görürsünüz. Bunu görmenin başka yolu da var ama olsun.
+      ### E ama nasıl cmd'den açabilirsiniz ? ###
+      Exe'nin olduğu klasördeyken shift tuşuna basılı tutmuş haldeyken klasör içinde boş bir yere tıklarsanız eğer
+          "Komut İstemi'ni burada açın" diye bir seçenek çıkar önünüze. Ona tıklayabilirsiniz. Sonra o cmd ekranında 
+           rozy.exe yazıp tıkladığınızda program çalışır.
+      Bir diğer seçenek bilmiyorsanız eğer cmd için "cd" komutunu öğrenebilirsiniz.
+      Bambaşka bir seçenek iste cmd'yi açtığınızda c:\Users\Mahmut gibi yazan kısma bakarak exe'yi aha o mahmut klasörüne 
+          koyarsınız. Sizde mahmut değil de sizin isminiz yazar büyük olasılıkla. Sonra rozy.exe yazıp enter'a basarsınız.
+      Uleyn amma kastım he. Ama olsun her ihtimali düşünüyorum. Huyum bu.
+
+* Programın verdiği hataları başka şekilde de görebilirsiniz dedim. Program çalıştığında log gibimsi bir isimle 
+      klasör oluşacak. O klasörün içinde tarihlere göre klasörler oluşacak. Aha işte o klasörlerin içinde kayıtları 
+      görebilirsiniz.
       
 * Tek forum için çalıştırabilirsiniz. O forumu ve bot olarak kullanacağınız hesabın IDsini bana söylemelisiniz.
 
