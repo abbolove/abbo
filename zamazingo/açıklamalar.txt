@@ -18,9 +18,8 @@ Bence gereksiz ama olur da biri kullanmak isterse eğer;
           koyarsınız. Sizde mahmut değil de sizin isminiz yazar büyük olasılıkla. Sonra rozy.exe yazıp enter'a basarsınız.
       Uleyn amma kastım he. Ama olsun her ihtimali düşünüyorum. Huyum bu.
 
-* Programın verdiği hataları başka şekilde de görebilirsiniz dedim. Program çalıştığında log gibimsi bir isimle 
-      klasör oluşacak. O klasörün içinde tarihlere göre klasörler oluşacak. Aha işte o klasörlerin içinde kayıtları 
-      görebilirsiniz.
+* Programın verdiği hataları başka şekilde de görebilirsiniz dedim. logs adlı klasör var. 
+      O klasörün içinde tarihlere göre klasörler oluşacak. Aha işte o klasörlerin içinde kayıtları görebilirsiniz.
       
 * Tek forum için çalıştırabilirsiniz. O forumu ve bot olarak kullanacağınız hesabın IDsini bana söylemelisiniz.
 
@@ -62,6 +61,10 @@ Bence gereksiz ama olur da biri kullanmak isterse eğer;
             # x yerine hangi sayıyı yazarsanız o kadar gün öncekiyle çalıştırıldığı zamanın takas verilerini paylaşıyor.
             # "rozy takas 13" derseniz 13 günlük farkı falan gösterecek işte
             # sadece "rozy takas" da yazabilirsiniz tabii. ama o zaman sevimsiz oluyor.
+      + "rozy kap" ya da "rozy kap 2" falan
+            # sadece "rozy kap" yazarsanız en son KAP bildirimini foruma görsel olarak yükler.
+            # "rozy kap 1" ya da "rozy kap 2" ya da "rozy kap 3" yazarsanız 1-2-3 kadar önceki KAP bildirimini yükler.
+      
       + "rozy gıybet"
             # "rozy gıybet iyi" yazarsanız iyi şeyler söyler
             # "rozy gıybet kötü" yazarsanız kötü şeyler söyler
