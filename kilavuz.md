@@ -1,36 +1,36 @@
-# Komutlar ve Kullanım Örnekleri
+## Komutlar ve Kullanım Örnekleri
 
 * komutlarda boşluklar önemli
 
-### anlık fiyat verisi için 
+#### anlık fiyat verisi için 
 ```
 abbo fiyat
 ```
 sürekli işlemdeyken kullanılmalı
 
 
-### anlık fiyat ve bazı indikatörlerin 5 dk'lık, 15dk'lık, 1 saatlik ve günlük verisine ulaşmak için
+#### anlık fiyat ve bazı indikatörlerin 5 dk'lık, 15dk'lık, 1 saatlik ve günlük verisine ulaşmak için
 ```
 abbo veri
 ```
 sürekli işlemdeyken kullanılmalı
 
 
-### hangi kademede ne kadar lot alınıp satılmış bilgisi için
+#### hangi kademede ne kadar lot alınıp satılmış bilgisi için
 ```
 abbo kademe
 ```
 seans dışında çalışmıyor sanırım
 
 
-### grafikli takas verileri için
+#### grafikli takas verileri için
 ```
 abbo takas grafikli
 ```
 35 günlük değişimleri gösteriyor ve biraz karışık oluyor
 
 
-### sadece sayısal takas verileri için
+#### sadece sayısal takas verileri için
 ```
 abbo takas
 ```
@@ -41,7 +41,7 @@ abbo takas 11
 şeklinde yazabilirsiniz. 1-500 arası tam sayı uygundur
 
 
-### bedelsiz sermaye arttırımlarında bazı hesaplamalar için
+#### bedelsiz sermaye arttırımlarında bazı hesaplamalar için
 ```
 abbo bedelsiz lot=200 yüzde=65
 ```
@@ -53,7 +53,7 @@ abbo bedelsiz lot=1250 yüzde=120 fiyat=23
 olarak komut verebilirsiniz. 
 
 
-### bedelli sermaye arttırımlarında bazı hesaplamalar için
+#### bedelli sermaye arttırımlarında bazı hesaplamalar için
 ```
 abbo bedelli lot=3000 yüzde=75 rhf=1
 ```
@@ -66,7 +66,7 @@ abbo bedelli lot=2200 yüzde=46 rhf=1 fiyat=12
 olarak komut verebilirsiniz
 
 
-### grafik çizdirmek için
+#### grafik çizdirmek için
 ```
 abbo grafik ciz=[bbands()&macd()] 
 ```
@@ -86,7 +86,7 @@ yazarsanız abbo hata verir. bu komutta hata verdirmek o kadar kolay ki \
 belki bir gün daha sağlam hale getiririm. ama kimin için? ben kullanıyorum aşldsöaşldö
 
 
-### indikatörlerle hesaplamalar için
+#### indikatörlerle hesaplamalar için
 ```
 5h@ (rsi(20)<70)&(bbands(18,3,3)['middleband']>ema(200))
 ```
@@ -101,41 +101,41 @@ bu özelliği daha sonra biraz daha açıklarım. çok şey yapılabiliyor
 
 
 
-### tradingview sitesindeki son analizi investing forumuna aktarmak için
+#### tradingview sitesindeki son analizi investing forumuna aktarmak için
 ```
 abbo tv
 ```
 
 
-## goygoy komutlar
+### goygoy komutlar
 
-### abbo'nun size yürümesi için
+#### abbo'nun size yürümesi için
 ```
 abbo sev beni
 ```
 
-### şarkı söylemesi için
+#### şarkı söylemesi için
 ```
 abbo şarkı
 ```
 
-### müzik ismi paylaşması için
+#### müzik ismi paylaşması için
 ```
 abbo müzik
 ```
 
-### halini vaktini sormak için
+#### halini vaktini sormak için
 ```
 abbo naber
 ```
 
-### dedikodu için
+#### dedikodu için
 ```
 abbo gıybet
 ```
 
 
-## komut olmayan özellikler
+### komut olmayan özellikler
 
 * belli saatlerde günaydın, iyi akşamlar der
 * sharematriks linki görünce foruma yükler. abbo'nun sevdiği insanlardansanız \
