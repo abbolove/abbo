@@ -34,7 +34,7 @@ abbo takas grafikli
 ```
 abbo takas
 ```
-bugün ve dün arasındaki farkı listeler. örnek olarak 11 günlük fark isteniyorsa eğer \
+bugün ve dün arasındaki farkı listeler. örnek olarak 11 günlük fark isteniyorsa eğer
 ```
 abbo takas 11
 ```
