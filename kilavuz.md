@@ -85,6 +85,12 @@ komut verirken kolaylık olsun diye inputs şeklinde fiyat verisi girmeyi abbo'd
 yazarsanız abbo hata verir. bu komutta hata verdirmek o kadar kolay ki \
 belki bir gün daha sağlam hale getiririm. ama kimin için? ben kullanıyorum aşldsöaşldö
 
+çok kırılgan bir komut olduğu için bazı kısıtlamalar da var
+birinci kısıtlama: en fazla 6 indikatör çizdirebilirsiniz
+ikinci kısıtlama: [Overlap Studies](https://github.com/mrjbq7/ta-lib/#overlap-studies) harici indikatörlerden en fazla 3 tane çizdirebilirsiniz
+neden? çünkü öyle!
+
+
 
 #### indikatörlerle hesaplamalar için
 ```
@@ -104,6 +110,16 @@ bu özelliği daha sonra biraz daha açıklarım. çok şey yapılabiliyor
 #### tradingview sitesindeki son analizi investing forumuna aktarmak için
 ```
 abbo tv
+```
+eğer son analizi değil de popüler analizi aktarmak istiyorsanız
+
+```
+abbo tv popular
+```
+ya da 
+
+```
+abbo tv populer
 ```
 
 
