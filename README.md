@@ -6,11 +6,6 @@ https://www.facebook.com/profile.php?id=100045090097100 \
 https://www.instagram.com/abbolove/ \
 https://www.youtube.com/channel/UCQUBe_8BIdBDL51QeRSDTMA \
 https://twitter.com/abbolove \
-HUBVC https://tr.investing.com/members/contributors/207593363/comments \
-ALCTL https://tr.investing.com/members/contributors/207591885/comments \
-TKNSA https://tr.investing.com/members/contributors/207592075/comments \
-PRKME https://tr.investing.com/members/contributors/207576927/comments \
-NETAS https://tr.investing.com/members/contributors/207557347/comments \
 https://tr.investing.com/members/contributors/207557172/comments  ben \
 https://t.me/Abbolove Telegram abbo \
 https://t.me/Ruhuzursuzum Telegram ben
