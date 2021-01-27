@@ -122,6 +122,12 @@ ya da
 abbo tv populer
 ```
 
+#### uçuk kaçıklar için tavan serisi
+```
+abbo tavan
+```
+galiba 9. tavana kadar yazıyordu
+
 
 ### goygoy komutlar
 
