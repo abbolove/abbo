@@ -9,4 +9,4 @@ https://twitter.com/abbolove \
 https://tr.investing.com/members/contributors/207593363/comments \
 https://tr.investing.com/members/contributors/207557172/comments  ben \
 https://t.me/Abbolove Telegram abbo \
-https://t.me/Ruhuzursuzum Telegram ben
+https://t.me/uzerb Telegram ben
