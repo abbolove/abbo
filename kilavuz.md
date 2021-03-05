@@ -6,7 +6,7 @@
 ```
 abbo fiyat
 ```
-teorik eşleşme verisine ulaşamıyor. sürekli işlemdeyken kullanılmalı
+teorik eşleşme verisine ulaşamıyor. sürekli işlemdeyken kullanılmalı. 9:45-9:55 arası ve hisse devre kesmişken kullanılmamalı
 
 
 #### anlık fiyat ve bazı indikatörlerin 5 dk'lık, 15dk'lık, 1 saatlik ve günlük verisine ulaşmak için
