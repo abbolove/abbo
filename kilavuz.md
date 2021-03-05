@@ -13,7 +13,7 @@ teorik eşleşme verisine ulaşamıyor. sürekli işlemdeyken kullanılmalı. 9:
 ```
 abbo veri
 ```
-sürekli işlemdeyken kullanılmalı
+teorik eşleşme verisine ulaşamıyor. sürekli işlemdeyken kullanılmalı. 9:45-9:55 arası ve hisse devre kesmişken kullanılmamalı
 
 
 #### hangi kademede ne kadar lot alınıp satılmış bilgisi için
