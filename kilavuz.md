@@ -6,7 +6,7 @@
 ```
 abbo fiyat
 ```
-sürekli işlemdeyken kullanılmalı
+teorik eşleşme verisine ulaşamıyor. sürekli işlemdeyken kullanılmalı
 
 
 #### anlık fiyat ve bazı indikatörlerin 5 dk'lık, 15dk'lık, 1 saatlik ve günlük verisine ulaşmak için
