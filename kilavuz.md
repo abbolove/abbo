@@ -163,4 +163,7 @@ abbo gıybet
 * sharematriks linki görünce foruma yükler. abbo'nun sevdiği insanlardansanız \
    sonu resim uzantısıyla biten linkleri de foruma yükleyebilir \
    adınızın listede olması lazım bunun için
-
+ 
+ ! zalım investing kaldırmaya başladı görselli yorumlarımı \
+   bu yüzden bu özellik yok diyebiliriz
+   
