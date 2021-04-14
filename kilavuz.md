@@ -1,5 +1,6 @@
 ## Komutlar ve Kullanım Örnekleri
 
+* çoğu yıldız pazar hisse forumunda komut verilebiliyor
 * komutlarda boşluklar önemli
 
 #### anlık fiyat verisi için 
