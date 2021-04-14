@@ -164,7 +164,3 @@ abbo gıybet
    sonu resim uzantısıyla biten linkleri de foruma yükleyebilir \
    adınızın listede olması lazım bunun için
  
- ! zalım investing kaldırmaya başladı görselli yorumlarımı \
-   bu yüzden bu özellik yok diyebiliriz
- ! bu aralar kaldırmıyor
-   
