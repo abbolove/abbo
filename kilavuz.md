@@ -166,4 +166,5 @@ abbo gıybet
  
  ! zalım investing kaldırmaya başladı görselli yorumlarımı \
    bu yüzden bu özellik yok diyebiliriz
+ ! bu aralar kaldırmıyor
    
