@@ -17,13 +17,6 @@ abbo veri
 teorik eşleşme verisine ulaşamıyor. sürekli işlemdeyken kullanılmalı. 9:45-9:55 arası ve hisse devre kesmişken kullanılmamalı
 
 
-#### hangi kademede ne kadar lot alınıp satılmış bilgisi için
-```
-abbo kademe
-```
-DERİNLİK BİLGİSİ DEĞİL BUUU. DAHA TIRT BİR VERİ!!!
-
-
 #### grafikli takas verileri için
 ```
 abbo takas grafikli
